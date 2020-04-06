@@ -4,8 +4,8 @@
 
 ### Steps:
 
-flex data.lex
-gcc lex.yy.c -lfl
-gcc lex.yy.c -lfl -o myCompile.out
-./myCompile.out < sample.pa
+#### flex data.lex
+#### gcc lex.yy.c -lfl
+#### gcc lex.yy.c -lfl -o myCompile.out
+#### ./myCompile.out < sample.pa
 
