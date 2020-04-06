@@ -9,3 +9,6 @@
 #### gcc lex.yy.c -lfl -o myCompile.out
 #### ./myCompile.out < sample.pa
 
+Download zip and run the above commands in sequence as they are written.
+
+Thanks hope this helps, will update and make it more efficient. 
